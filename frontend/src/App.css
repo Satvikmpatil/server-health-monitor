@@ -1,0 +1,26 @@
+.app {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.app-header {
+  text-align: center;
+  padding: 20px 0 30px;
+}
+
+.app-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.app-header p {
+  font-size: 0.95rem;
+  color: #a1a1aa;
+}
+
+.app-main {
+  max-width: 1400px;
+  margin: 0 auto;
+}

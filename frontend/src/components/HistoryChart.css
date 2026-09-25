@@ -1,0 +1,18 @@
+.history-chart {
+  width: 100%;
+}
+
+.chart-loading,
+.chart-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  color: #a1a1aa;
+  font-size: 0.9rem;
+}
+
+.recharts-legend-item-text {
+  color: #a1a1aa !important;
+  font-size: 0.85rem;
+}
